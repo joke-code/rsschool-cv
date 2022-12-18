@@ -48,26 +48,26 @@
 }
 h1 {
     margin-top: 40px;
-    text-align: right;
+    text-align: center;
     color: black;
 }
 .About_me .photo_round {
     display: block;
     margin: 0 auto;
-    text-align: right;
+    text-align: center;
     padding-top: 30px;
 }
 h2{
-    text-align: right;
+    text-align: center;
     padding-top: 20px;
 }
 h3{
-    text-align: right;
+    text-align: center;
     padding-top: 10px;
 }
 footer {
     padding-top: 20px;
-    text-align: right;
+    text-align: center;
 }
 .rs-ison {
     display: block;
