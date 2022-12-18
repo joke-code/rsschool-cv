@@ -2,4 +2,4 @@
 
 # https://joke-code.github.io/rsschool-cv/cv
 
-# https://joke-code.github.io/rsschool-cv/
+# https://github.com/joke-code/rsschool-cv/tree/rsschool-cv-html)
